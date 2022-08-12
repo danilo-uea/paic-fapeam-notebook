@@ -9,4 +9,4 @@
 * Ano: 2022
 
 ## Definição
-Notebook do projeto PAIC financiado pela FAPEAM para plotagem de gráficos.
+Notebook do projeto PAIC patrocinado pela FAPEAM para plotagem de gráficos.
